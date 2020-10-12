@@ -6,4 +6,5 @@ group :test do
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false
   gem 'sinatra', '~> 2.1'
+  gem 'shotgun', '~> 0.9.2'
 end
