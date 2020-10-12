@@ -1,1 +1,0 @@
-set :session_secret
